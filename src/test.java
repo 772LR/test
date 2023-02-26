@@ -4,6 +4,9 @@ public class test {
 synchronized (){
 
 }
+        System.out.println(shorts
+        ss
+        switch ();
 synchronized (short)
     }
 }
